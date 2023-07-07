@@ -1,0 +1,8 @@
+#canvas1{
+    position: absolute;
+    background-color: rgb(20, 20, 19);
+    height: 100%;
+    width: 100%;
+    top:0;
+    left: 0;
+}
